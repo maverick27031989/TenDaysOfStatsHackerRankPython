@@ -11,4 +11,6 @@ Day One :
 
 program 1: calculate Quartiles 
 
-program 2: calculate Interquartile Range
+program 2: calculate Interquartile Range 
+
+program 3: calculate Standard Deviation
